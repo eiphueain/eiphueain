@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eiphueain
 - 👀 I’m interested in anything STEM, literature and video games!
-- 🌱 I’m currently studying A-levels: physics, IT, german and math. I'm planning to study something in the compsci field for uni. 
+- 🌱 I’m currently doing Studienkolleg in Germany 
 - 😄 Pronouns: they/them
 
 <!---
