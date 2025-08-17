@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @eiphueain
-- 👀 I’m interested in anything STEM, literature and video games!
-- 🌱 I’m currently doing Studienkolleg in Germany 
-- 😄 Pronouns: they/them
+Silly little programmes
 
 <!---
 eiphueain/eiphueain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
